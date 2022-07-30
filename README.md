@@ -1,1 +1,1 @@
-# Simple-static-Coffee-shop-website
+# Simple-Static-Coffee-Shop-Website
